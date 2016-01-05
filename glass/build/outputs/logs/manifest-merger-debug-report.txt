@@ -1,35 +1,55 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:1:1-13:12
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:2:5-56
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:4:5-11:19
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:5:5-23:19
 	android:label
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:7:9-41
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:5:9-35
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml:9:9-40
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:10:9-40
+activity#comfostertaununcomsof.github.urbanwarfare.Main
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:11:9-22:20
+	android:label
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:14:13-56
+	android:icon
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:13:13-51
+	android:name
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:12:13-33
+intent-filter#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:15:13-17:29
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:16:17-88
+	android:name
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:16:25-85
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:19:13-21:57
+	android:resource
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:21:17-54
+	android:name
+		ADDED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml:20:17-69
 uses-sdk
-INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml reason: use-sdk injection requested
 	android:targetSdkVersion
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tanner\AndroidStudioProjects\UrbanWarfare\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tanner\Documents\ununcomsof\glass\src\main\AndroidManifest.xml
