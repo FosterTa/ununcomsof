@@ -3,6 +3,5 @@
     <string name="app_name">Urban Warfare</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_main">Hello World Immersion</string>
-    <style name="AppTheme" parent="android:Theme.Holo.Light">
-    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
 </resources>

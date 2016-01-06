@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Urban Warfare</string>
+    <string name="app_name">Proper Shelling</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
